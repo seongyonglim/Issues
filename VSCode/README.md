@@ -23,12 +23,8 @@ $ py37_venv\Scripts\deactivate.bat
 
 ### 주의 사항
 
-간혹 위 명령어를 입력했을 때 가상환경에 안들어가질 때가 있다.
+간혹 위 명령어를 입력했을 때 가상환경에 안들어가질 때가 있다. 그럴 때 터미널이 Command Prompt 인지 확인하자
 
-그럴때 터미널이 Command Prompt 인지 확인하자
-
-Select Default Profile
-
-여길 들어가서 default로 켜지는 터미널 수정도 가능하다
+Select Default Profile << 여길 들어가서 default로 켜지는 터미널 수정도 가능하다
 
 ---
