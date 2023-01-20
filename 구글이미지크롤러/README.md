@@ -1,5 +1,7 @@
+# Joeclinton1 의 구글 이미지 크롤러
+
 ```
-$ python setup.py install
+$ cd google-images-download && python setup.py install
 ```
 
 만일 clone을 해온다면
