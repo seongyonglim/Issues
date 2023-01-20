@@ -1,10 +1,14 @@
 # Joeclinton1 의 구글 이미지 크롤러
 
+clone 이후 아래 명령어를 치면 setup이 끝난다
+
 ```
 $ cd google-images-download && python setup.py install
 ```
 
-만일 clone을 해온다면
+---
+
+## 직접 원본 git으로부터 clone을 할 경우
 
 ```
 git clone https://github.com/Joeclinton1/google-images-download.git
