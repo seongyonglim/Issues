@@ -30,7 +30,7 @@ $ pip freeze > requirements.txt
 ### requirements.txt 에 있는 모든 내용 삭제 (가상환경 초기화할 때 쓰임)
 
 ```
-pip uninstall -r requirements.txt -y
+$ pip uninstall -r requirements.txt -y
 ```
 
 ### 주의 사항
