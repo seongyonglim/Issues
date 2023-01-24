@@ -21,6 +21,18 @@ $ py37_venv\Scripts\activate.bat
 $ py37_venv\Scripts\deactivate.bat
 ```
 
+### 현재 환경에 설치된 pip들 requirements.txt에 담기
+
+```
+$ pip freeze > requirements.txt
+```
+
+### requirements.txt 에 있는 모든 내용 삭제 (가상환경 초기화할 때 쓰임)
+
+```
+pip uninstall -r requirements.txt -y
+```
+
 ### 주의 사항
 
 간혹 위 명령어를 입력했을 때 가상환경에 안들어가질 때가 있다. 그럴 때 터미널이 Command Prompt 인지 확인하자
